@@ -1,4 +1,4 @@
-package vehicleInsuranceApp;
+package P03_vehicleInsuranceApp;
 import java.util.Scanner;
 public class VehicleInsurance {
 

@@ -1,4 +1,4 @@
-package busTicket;
+package P02_busTicket;
 import java.util.Scanner;
 public class Ticket {
         static Scanner input = new Scanner(System.in);
